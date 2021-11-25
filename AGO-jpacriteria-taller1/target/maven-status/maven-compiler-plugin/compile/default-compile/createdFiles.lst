@@ -1,0 +1,15 @@
+com\nttdata\sevilla\persistence\ClientDaoImpl.class
+com\nttdata\sevilla\persistence\CommonDaoI.class
+com\nttdata\sevilla\services\ContractServiceImpl.class
+com\nttdata\sevilla\services\ContractServiceI.class
+com\nttdata\sevilla\persistence\AbstractEntity.class
+com\nttdata\sevilla\clientes\ClientsSessionUtil.class
+com\nttdata\sevilla\clientes\ClientesYContratosMain.class
+com\nttdata\sevilla\persistence\Contract.class
+com\nttdata\sevilla\persistence\CommonDaoImpl.class
+com\nttdata\sevilla\services\ClientServiceImpl.class
+com\nttdata\sevilla\persistence\ContractDaoI.class
+com\nttdata\sevilla\services\ClientServiceI.class
+com\nttdata\sevilla\persistence\ClientDaoI.class
+com\nttdata\sevilla\persistence\Client.class
+com\nttdata\sevilla\persistence\ContractDaoImpl.class
